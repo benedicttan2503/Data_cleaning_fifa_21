@@ -1,5 +1,5 @@
 # Data_cleaning_fifa_21
-This project aims to clean and transform data in a CSV file named `fifa21_raw_data.csv`. The script provided performs various operations on the data to clean it and create a new CSV file named `fifa_clean_project.csv` with the cleaned data.
+This project aims to clean and transform data in a CSV file named `fifa21_raw_data.csv`. The script provided performs various operations on the data to clean it and create a new CSV file named `fifa_clean_project.csv` with the cleaned data. The data is taken from this site: https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring?select=fifa21_raw_data.csv
 
 ## Process
 1. The script imports the necessary libraries: `csv`, `math`, and `datetime`.
