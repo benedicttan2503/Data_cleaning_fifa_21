@@ -1,7 +1,4 @@
 # Data_cleaning_fifa_21
-Cleaned Data of Fifa 21 players
-# Data Cleaning Project
-
 This project aims to clean and transform data in a CSV file named `fifa21_raw_data.csv`. The script provided performs various operations on the data to clean it and create a new CSV file named `fifa_clean_project.csv` with the cleaned data.
 
 ## Process
